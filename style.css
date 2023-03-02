@@ -1,0 +1,84 @@
+h1 {
+	color:#0B0050;
+	background-color: #F5DEB3;
+	text-align: center;
+    font-size: 90px;
+    font-style: italic;
+    font-family: 'Shrikhand', cursive;
+
+}
+
+p {
+	color: #0B0050;
+	margin: 5%;
+	font-family:'Josefin Sans', sans-serif;
+	size: 20px
+
+
+
+}
+
+h2 {
+	color: #F5DEB3;
+	font-family:'Shrikhand', cursive;
+	size 50px;
+	background: #0B0050
+
+}
+
+
+
+ul {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #0B0050
+	
+
+}
+
+
+div {
+	background-color:#FFFEFD;
+	border-radius: 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin: 20px auto;
+	padding: 0px;
+	width: 600px;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+
+.clara {
+	border-radius: 50%;
+	padding: 10px;
+	margin: auto;
+	height: 350px;
+}
+
+.hobbies {
+	margin: auto;
+	height: 400px;
+	width: 300px;
+	padding-bottom: 10px;
+}
+
+.Instagram {
+
+	width : 50px;
+    height : 50px;
+    display: block;
+    margin: 0px auto;
+
+}
+
+.Linkedin {
+
+	width : 50px;
+    height : 50px;
+    display: block;
+    margin: 0px auto;
+
+}
+
+
